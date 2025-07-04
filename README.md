@@ -1,29 +1,33 @@
-# my-project
-Dépôt de mes différents projet réalisé avec l'université ou dans le cadre de mon alternance
+# Mes Projets
 
+Ce dépôt contient l'ensemble de mes projets réalisés dans le cadre de mes études universitaires ou de mon alternance.
 
-## [Application-mini-pinterest](https://github.com/D32mond/mes-projets-web/tree/main/application-mini-pinterest)
-Réalisation lors de la Licence d'un site de type pinterest en php et avec une gestion des données en SQL.
+## [Application Mini Pinterest](https://github.com/D32mond/mes-projets-web/tree/main/application-mini-pinterest)
 
+Projet réalisé durant ma licence : création d’un site de type Pinterest en PHP avec une gestion des données en SQL.
 
 ## [Gestionnaire de QCM](https://github.com/D32mond/mes-projets-web/tree/main/gestionnaire-de-QCM)
-Réalisation lors de la Licence en cours de LIFAP5 - projet 2019-2020 d'un gestionnaire de QCM en JavaScript.
 
+Projet réalisé dans le cadre du cours LIFAP5 (2019-2020) : gestionnaire de QCM développé en JavaScript.
 
-## [Dessine moi un mouton](https://github.com/D32mond/mes-projets-web/tree/main/dessine-moi-un-mouton)
+## [Dessine-moi un mouton](https://github.com/D32mond/mes-projets-web/tree/main/dessine-moi-un-mouton)
 
-Réalisation lors de la Licence en cours LIFPROJET Printemps 2021 d'un site web de jeu multijoueurs en ligne de type Pictionary.  
-Fait en Javascript, JSX, React et PeerJS.
+Projet réalisé lors du cours LIFPROJET (printemps 2021) : jeu multijoueur en ligne de type Pictionary.  
+Développé en JavaScript, JSX, React et PeerJS.
 
+## [Gestionnaire de réservation](https://github.com/D32mond/mes-projets-web/tree/main/M1IF03-RESAS)
 
-## [Gestionnaire de réservation ](https://github.com/D32mond/mes-projets-web/tree/main/M1IF03-RESAS)
-
-Réalisation lors du Master en cours M1IF03 - projet 2024-2025 d'un site web de gestion de réservation.
-Fait en Java, Spring et Javascript.
-
+Projet réalisé dans le cadre du cours M1IF03 (2024-2025) : application web de gestion de réservation.  
+Développé en Java (Spring) et JavaScript.
 
 ## [Panique au Musée](https://github.com/D32mond/mes-projets-web/tree/main/M1IF13-Panique-au-Musée)
 
-Réalisation lors du Master en cours M1IF23 - projet 2024-2025 d'une application web de Jeu.  
-Fait en Java, Spring et Typescript.  
-Utilistations de Nginx, Express, Tomcat, Node, Vue.JS et PWA
+Projet réalisé dans le cadre du cours M1IF13 (2024-2025) : application web de type jeu.  
+Développé en Java et TypeScript.  
+Technologies utilisées : Nginx, Express, Tomcat, Spring, Node.js, Vue.js et PWA.
+
+## [Gestion de facturation d'entreprise](https://github.com/D32mond/mes-projets-web/tree/main/Projet-Alternance)
+
+Application web réalisée et maintenue dans le cadre de mon alternance en Master 1.  
+Développée en TypeScript.  
+Technologies utilisées : Node.js, Express, Docker, MongoDB, Angular, PrimeNG et ScriptRunner.
